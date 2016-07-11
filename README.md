@@ -6,4 +6,7 @@ You can use FeedbackCompanyApi.php in your Magento extension or use FCTemplate t
 ```composer require sebwite/feedback-company```
 
 ## Settings
-The extension add a new menu item in the admin panel. Add your Feedback Company OAuth Secret and Id to Sebwite/FeedbackCompany to make this extension work.  
+The extension add a new menu item in the admin panel. Add your Feedback Company OAuth Secret and Id to Sebwite/FeedbackCompany to make this extension work.
+
+---
+[![Alt text](https://www.sebwite.nl/wp-content/themes/sebwite/assets/images/logo-sebwite.png "Sebwite.nl")](https://sebwite.nl)
